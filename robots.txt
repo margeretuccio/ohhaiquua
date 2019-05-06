@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifiemaiz.michael-brown.net/sitemap.xml
